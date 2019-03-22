@@ -26,7 +26,7 @@
 let g:tinyvim_user = "Waldon Chen"
 let g:tinyvim_email = "waldonchen at gmail.com"
 let g:tinyvim_github = "https://waldonchen.github.io"
-let g:tinyvim_autocomplete = "YCM"  " or NEO
+let g:tinyvim_autocomplete = "NEO"  " YCM or NEO
 let g:tinyvim_fancy_font = 1
 let g:tinyvim_expand_tab = 1
 let g:tinyvim_default_indent = 4
@@ -160,7 +160,7 @@ Plug 'tpope/vim-surround' " Surround
 Plug 'AndrewRadev/splitjoin.vim' " Splitjoin
 Plug 'sickill/vim-pasta' " Vim pasta
 Plug 'wellle/targets.vim' " Text objects
-Plug 'roman/golden-ratio' " Resize windows
+" Plug 'roman/golden-ratio' " Resize windows
 Plug 'chrisbra/vim-diff-enhanced' " Create better diffs
 Plug 'rhysd/vim-clang-format'
 Plug 'kana/vim-operator-user'
